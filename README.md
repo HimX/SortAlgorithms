@@ -1,1 +1,3 @@
-# sort_algorithms
+# Algoritmos de ordenamiento
+
+- Laboratorio de algorimia y complejidad
